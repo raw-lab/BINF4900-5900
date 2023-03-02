@@ -14,9 +14,6 @@
 - Dr. Richard Allen White III
 - Email: [mailto](mailto:rwhit101@uncc.edu)
 
-- Lydia Holley
-- Email: [mailto](mailto:lholley4@uncc.edu)
-
 <p align="center"> 
 <img src="image.jpg">
 </p>
